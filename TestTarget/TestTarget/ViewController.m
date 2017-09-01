@@ -18,6 +18,7 @@
     [super viewDidLoad];
    
     //方法一
+    
 //    [self loadCodeWithBundleIdentifier];
     
     //方法二
